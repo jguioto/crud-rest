@@ -35,5 +35,5 @@ DELETE: http://localhost:8080/estudantes/2 --> Exclui um estudante existente.
 
 A API conta com um tratamento de exceções para cada um dos métodos, caso o ID selecionado não exista.
 
-Licença
+Licença: 
 Este projeto está sob a licença MIT, http://www.opensource.org/licenses/mit-license.php
